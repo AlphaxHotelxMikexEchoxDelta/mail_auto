@@ -3,7 +3,7 @@ import pyperclip as pyp
 from time import sleep
 
 mails = open("mail.txt","r")
-lines = ips.readlines()
+lines = mails.readlines()
 for line in lines:
     mail = line.replace("\n","")
     

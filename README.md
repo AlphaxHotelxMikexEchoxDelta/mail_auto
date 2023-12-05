@@ -1,4 +1,4 @@
-# mail_auto
+# CandidAutoSender
 automatisations de mails pour mes candidatures spontanées
 
 Changer les positions des clics, s'il vous plaît. J'ai utilisé Outlook, et sur la moitié de mon écran. Pour vous, ce serait peut-être autre chose... Corrigez les fautes.
